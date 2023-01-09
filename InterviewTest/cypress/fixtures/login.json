@@ -1,0 +1,11 @@
+{
+    "common":{
+        "emailField": "#email",
+        "passwordFiled": "#password",
+        "loginBtn": "Log in",
+        "incorrectEmail" :"abc@abc.com",
+        "correctEmail": "himanshutg2@gmail.com",
+        "correctPassword": "Him@2812"
+    },
+    "errorMsg": "Enter your Email address and password correct"
+}
